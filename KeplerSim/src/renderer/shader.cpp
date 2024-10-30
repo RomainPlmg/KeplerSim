@@ -2,7 +2,7 @@
 
 #include <glm/gtc/type_ptr.hpp>
 
-#include "log.h"
+#include "core/log.h"
 #include "utils/utils.h"
 
 Shader::Shader(const std::string& name, const std::string& vertexPath,

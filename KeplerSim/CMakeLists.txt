@@ -39,6 +39,7 @@ target_include_directories(KeplerSim PUBLIC
         ${CMAKE_CURRENT_SOURCE_DIR}/vendor/glfw/include/
         ${CMAKE_CURRENT_SOURCE_DIR}/vendor/glad/include/
         ${CMAKE_CURRENT_SOURCE_DIR}/vendor/glm/
+        ${CMAKE_CURRENT_SOURCE_DIR}/vendor/stbimage/
 )
 
 # Link libraries to the project
